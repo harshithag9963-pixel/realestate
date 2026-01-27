@@ -20,9 +20,9 @@ Deployed on **AWS** with **Docker** containers and **CI/CD** automation for seam
 - 🔐 **Authentication & Authorization** – Secure JWT-based login system  
 - ☁️ **Cloud Deployment** – Hosted on AWS EC2 with CloudWatch monitoring  
 - 🐳 **Dockerized Microservices** – Modular backend and frontend services  
-- 🧠 **Automated Observability Pipelines** – Real-time error tracking and uptime monitoring  
+- 🧠 **Automated Observability Pipelines** – Real-time error tracking and uptime monitoring
 
----
+  ```
 
 ## 🧱 Architecture Overview
 
@@ -32,4 +32,5 @@ flowchart TD
     B --> C[(MongoDB Database)]
     B --> D[(Analytics Engine / CloudWatch)]
 ```
+
 
