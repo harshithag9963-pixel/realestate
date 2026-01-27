@@ -31,3 +31,5 @@ flowchart TD
     A[React Frontend] -->|REST API Calls| B[Node.js Backend (Express)]
     B --> C[(MongoDB Database)]
     B --> D[(Analytics Engine / CloudWatch)]
+```
+
